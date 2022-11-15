@@ -49,3 +49,5 @@ hs_err_pid*
 /frontend/npm-debug.log*
 /frontend/yarn-debug.log*
 /frontend/yarn-error.log*
+
+data/
